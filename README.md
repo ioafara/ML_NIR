@@ -1,2 +1,2 @@
 # ML_NIR
-Repo containing spectral data and code for PLOS submission
+Repo with spectral data and IPython notebook containing machine learning classification of articular cartilage integrity based on near infrared spectroscopy (NIRS).
